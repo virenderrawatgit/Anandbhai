@@ -1,0 +1,9 @@
+{
+  "openai_api_key": "YOUR_OPENAI_API_KEY",
+  "model": "gpt-4.1-mini",
+  "temperature": 0.2,
+  "hours_back": 1,
+  "max_events": 200,
+  "log_names": ["System", "Application"],
+  "output_directory": ".\\output"
+}
